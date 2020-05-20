@@ -1,6 +1,6 @@
 package tcb
 
-import "github.com/silenceper/wechat/context"
+import "github.com/sysatom/wechat/context"
 
 //Tcb Tencent Cloud Base
 type Tcb struct{
